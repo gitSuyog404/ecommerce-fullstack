@@ -1,0 +1,35 @@
+.product-title {
+  line-height: 1.8rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.rating {
+  margin: 0.1rem;
+}
+
+.rating svg {
+  color: rgb(255, 176, 6);
+}
+
+.rating-text {
+  padding-left: 5px;
+}
+
+.reviews h2 {
+  font-size: 24px;
+  border: 1px solid #ddd;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.carousel-caption {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+}
